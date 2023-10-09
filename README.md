@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khushboo Dattani
 - 👀 I’m interested in Learning new techniques to code
-- 🌱 I’m currently learning PHP & JS  
+- 🌱 I’m currently working on PHP & JS  and learing React and Node Js
 - 💞️ I’m looking to collaborate on Projects based on Chart JS
 
 <!---
