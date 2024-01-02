@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khushboo Dattani
 - 👀 I’m interested in Learning new techniques to code
 - 🌱 I’m currently working on PHP & JS  and learing React and Node Js
-- 💞️ I’m looking to collaborate on Projects based on Chart JS
+- 💞️ I’m looking to collaborate on Projects based on JS and different libraries in JS
 
 <!---
 KD499/KD499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
